@@ -1,1 +1,1 @@
-# Slot-Game-in-C-
+# Slot-Game in C#
